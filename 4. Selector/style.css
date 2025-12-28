@@ -1,0 +1,34 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,h2{
+    color:green ;
+}
+
+ul li a{
+    color: red;
+}
+
+ol li a{
+    color: lightblue;
+}
+
+#pg1{
+    color: orange;
+}
+
+.pg2{
+    color: purple;
+}
+
+.cetak-tebal{
+    font-weight:bold;
+}
+.miring{
+    font-style: italic;
+}
+
+p.cetak-tebal{
+    font-size: 20px
+}

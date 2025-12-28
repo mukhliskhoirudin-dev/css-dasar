@@ -1,0 +1,18 @@
+.hello:link {
+    color: brown;
+}
+
+.hello:hover {
+    font-family: Arial;
+    font-size: 25px;
+    color: green;
+}
+
+.hello:active {
+    font-style: italic;
+    color: aqua;
+}
+
+li:nth-child(even) a {
+    color: red;
+}
